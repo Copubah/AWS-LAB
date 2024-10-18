@@ -1,13 +1,10 @@
 # AWS-LAB
+- Some hands-on AWS projects that can enhance your cloud engineering and DevOps skills
 
-AWS lab project ideas that can help you deepen your knowledge and skills as a Cloud Engineer:
+1. Deploy a Web App on AWS Amplify
+ 
 
 
 
-Tools
--Gitpod
--Git
- # Steps
-1. gp init(if you are using gitpod)
 
 
