@@ -6,3 +6,11 @@
 - Use Amplify to add authentication, a real-time API, and a database to your application
 - Use Amplify libraries to connect the fronted with with AWS services
 - Deploy a web app with AWS Amplify
+
+## Installations
+- npm install -g @aws-amplify/cli(to install Amplify CLI)
+- amplify configure(to configure it)
+
+
+## Steps
+1. npm create amplify@latest -y
